@@ -10,11 +10,7 @@
 
 ## Active Proposals
 
-| AIP   | Title                                                                 | Status  |
-| ----- | --------------------------------------------------------------------- | ------- |
-| AIP 1 | [Proposal How-To](https://github.com/airswap/AIPs/issues/1)           | `Draft` |
-| AIP 2 | [Airdrop for Holders](https://github.com/airswap/AIPs/issues/2)       | `Draft` |
-| AIP 3 | [Liquidity Rewards for LPs](https://github.com/airswap/AIPs/issues/3) | `Draft` |
+Please see https://github.com/airswap/AIPs/issues for all active proposals.
 
 ## Resources
 
