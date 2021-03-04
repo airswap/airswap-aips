@@ -10,7 +10,7 @@
 
 ## Active Proposals
 
-Please see https://github.com/airswap/AIPs/issues for all active proposals.
+⚠️ Proposals are now hosted on [community.airswap.io](https://community.airswap.io/).
 
 ## Resources
 
