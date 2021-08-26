@@ -8,10 +8,6 @@
 [![License](https://img.shields.io/badge/License-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/airswap?style=social)
 
-## Active Proposals
-
-⚠️ Proposals are now hosted on [community.airswap.io](https://community.airswap.io/).
-
 ## Resources
 
 - Website → https://www.airswap.io/
