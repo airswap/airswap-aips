@@ -11,6 +11,5 @@
 ## Resources
 
 - Website → https://www.airswap.io/
-- Docs → https://docs.airswap.io/
-- Blog → https://blog.airswap.io/
-- Support → https://support.airswap.io/
+- About → https://about.airswap.io/
+- Chat → https://chat.airswap.io/
